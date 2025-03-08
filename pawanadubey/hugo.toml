@@ -1,0 +1,4 @@
+baseURL = 'https://pawanadubey.github.io/'
+languageCode = 'en-us'
+title = 'Pawan Dubey'
+theme = 'hugo-theme-terminal'
